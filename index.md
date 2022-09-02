@@ -6,3 +6,7 @@
 ```
 print('hello world!')
 ```
+
+- [x] practice LeetCode
+- [ ] nail the interview
+- [ ] get your dream offer
